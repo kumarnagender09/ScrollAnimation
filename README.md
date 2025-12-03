@@ -10,6 +10,13 @@ The app shows a green header with a search input and an action button. As the li
 - Simple list of sample items to demonstrate scrolling behavior
 - Custom rounded corner shape for polished visuals
 
+<p>
+  <img src="Image/1.png" alt="Screen 1" width="250" />
+  <img src="Image/2.png" alt="Screen 2" width="250" />
+  <img src="Image/3.png" alt="Screen 3" width="250" />
+</p>
+
+
 ## Requirements
 - Xcode 14+ (Xcode 15 recommended)
 - macOS with Xcode Command Line Tools
